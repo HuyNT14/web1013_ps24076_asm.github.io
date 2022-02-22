@@ -1,0 +1,37 @@
+.boxcenter{
+    width: 80%;
+    margin-top: 0px auto;   
+}
+.login{
+    margin-top: 10%;
+    width: 20%;
+    min-height: 300px;
+    border: 1px solid #999;
+    position: absolute;
+    left: 40%;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: orangered;
+}
+input{
+    padding: 10px 0;
+    width: 100%;
+}
+input[type="checkbox"]{
+    padding: 0;
+    width: auto;
+}
+input[type="Submit"]{
+    width: 50%;
+    margin-top: 20%;
+    margin-left: 25%;
+    background-color: pink;
+}
+label{
+    padding: 20px 0px;
+    margin: 40px 0;
+}
+h2{
+    text-align: center;
+}
